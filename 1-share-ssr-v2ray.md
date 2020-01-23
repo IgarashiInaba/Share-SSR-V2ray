@@ -53,7 +53,7 @@
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [放牧的风](https://www.youneed.win/free-ssr)         | 天       | ❌        | ✅        | 推荐         |
-| [Get SSR](https://onessr.ml/)         | 天       | ❌        | ❌        | 推荐         |
+| [One SSR](https://jichangdaquan.com/node/573.html)         | 天       | ❌        | ❌        | 推荐         |
 | [免费节点 Incn](https://lncn.org/)                           | 周       | ❌        | ✅        |            |
 | [Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts) | 周       | ❌        | ❌        |              |
 | [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) | 天       | ❌        | ✅       |              |
